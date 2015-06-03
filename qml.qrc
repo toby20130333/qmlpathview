@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>EveryPage.qml</file>
+        <file>SecondPage.qml</file>
+        <file>ThridPage.qml</file>
+        <file>FourthPage.qml</file>
+        <file>FivePage.qml</file>
+        <file>SixPage.qml</file>
+        <file>SevenPage.qml</file>
+        <file>DDuiBtn.qml</file>
+    </qresource>
+</RCC>
